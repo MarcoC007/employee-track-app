@@ -1,9 +1,9 @@
 # employee-track-app
 
 ## Info 
-In this app the use will be able to manage the staff of the employees. You
+In this app the user will be able to manage the staff of the employees. You
 
-* It was developed with: Windows
+* It was developed with:
 * Express.js
 * MySQL
 * JavaScript
